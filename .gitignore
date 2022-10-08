@@ -10,7 +10,7 @@ export_presets.cfg
 .mono/
 data_*/
 # Carpetas extras para ignorar (descomentar según necesidad)
-Builds/
+Builds
 #Documentacion/
 AssetsTemporales
 -------
